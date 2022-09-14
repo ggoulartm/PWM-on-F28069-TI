@@ -1,0 +1,12 @@
+"./EPWM.obj"
+"./F2806x_CodeStartBranch.obj"
+"./F2806x_GlobalVariableDefs.obj"
+"./F2806x_usDelay.obj"
+"./GPIO.obj"
+"./INTERRUPT.obj"
+"./ISR.obj"
+"./SYSTEM.obj"
+"./main.obj"
+"../28069_RAM_lnk.cmd"
+"../F2806x_Headers_nonBIOS.cmd"
+-llibc.a
